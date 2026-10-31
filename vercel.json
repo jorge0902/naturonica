@@ -1,0 +1,7 @@
+{
+  "framework": "static",
+  "buildCommand": "echo 'no build needed'",
+  "outputDirectory": ".",
+  "installCommand": "echo 'no install needed'",
+  "devCommand": "npx serve ."
+}
